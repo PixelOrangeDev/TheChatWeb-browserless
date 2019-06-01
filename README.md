@@ -11,6 +11,6 @@ TheChatWeb is my my prototype chat app. This is the downloadable client.
 |     Mac Support     |  Coming Soon  |      Yes      |
 |    Linux Support    |  Coming Soon  |      Yes      |
 
-Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
+> Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
 
-Check out the web version: [TheChatWeb | Web Edition](https://thechatweb.zapto.org)
+> Check out the web version: [TheChatWeb | Web Edition](https://thechatweb.zapto.org)
