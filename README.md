@@ -9,3 +9,4 @@ TheChatWeb is my my prototype chat app. This is the downloadable client.
 |`Remember Me` Option |  Coming Soon  |  Coming Soon  |
 
 Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
+Check out the web version: [TheChatWeb | Web Edition](https://thechatweb.zapto.org)
