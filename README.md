@@ -7,3 +7,5 @@ TheChatWeb is my my prototype chat app. This is the downloadable client.
 | Maximum Name Length |       20      |       15      |
 |Desktop Notifications|  Coming Soon  |       No      |
 |`Remember Me` Option |  Coming Soon  |  Coming Soon  |
+
+Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
