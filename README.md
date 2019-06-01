@@ -5,6 +5,7 @@ TheChatWeb is my my prototype chat app. This is the downloadable client.
 |                     |  Browserless  |      Web      |
 |        :---:        |     :---:     |     :---:     |
 | Maximum Name Length |       20      |       15      |
+| Minimum Name Length |       2       |        4      |
 |Desktop Notifications|  Coming Soon  |       No      |
 |`Remember Me` Option |  Coming Soon  |  Coming Soon  |
 |   Windows Support   |      Yes      |      Yes      |
