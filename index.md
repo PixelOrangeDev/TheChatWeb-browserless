@@ -1,8 +1,5 @@
 # TheChatWeb: A new kid on the block of chat apps.
 
-## TheChatWeb-browserless
-TheChatWeb is my my prototype chat app. This is the downloadable client.
-
 ### TheChatWeb Browserless vs Web
 <table>
    <thead>
@@ -54,3 +51,4 @@ TheChatWeb is my my prototype chat app. This is the downloadable client.
 > Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
 
 > Check out the [Web Edition](https://thechatweb.zapto.org)
+<iframe href="http://thechatweb.zapto.org">Something went wrong!</iframe>
