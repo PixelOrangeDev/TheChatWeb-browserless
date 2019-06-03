@@ -6,16 +6,13 @@ const url = require('url')
 let win
 
 function createWindow () {
+    
   // Create the browser window.
-  win = new BrowserWindow({width: 900, height: 500})
+  win = new BrowserWindow({ backgroundColor: '#717171', show: false, width: 900, height: 500})
   win.setMinimumSize(750, 450);
   
   // and load the index.html of the app.
-  win.loadURL(url.format({
-    pathname: path.join(__dirname, '/src/TCW-app.html'),
-    protocol: 'file:',
-    slashes: true
-  }))
+  win.loadURL('https://thechatweb.zapto.org/89bca5cc1a7441b3ef21f6f7bbea153a')
   
   // Emitted when the window is closed.
   win.on('closed', () => {
@@ -30,6 +27,7 @@ function createWindow () {
           label: 'TheChatWeb',
           submenu: [
             {label:'Use Web Edition', click(){shell.openExternal('https://TheChatWeb.zapto.org')}, accelerator:'CmdOrCtrl+W'},
+            {label:'Reload', click(){win.reload()}, accelerator:'CmdOrCtrl+R'},
             
             {type:'separator'},
             {label:'Exit', click(){app.quit()}, accelerator:'CmdOrCtrl+E'}
@@ -37,6 +35,10 @@ function createWindow () {
       }
   ])
   Menu.setApplicationMenu(menu); 
+  
+  win.once('ready-to-show', () => {
+    win.show()
+  })
   
 }
 
@@ -52,4 +54,5 @@ app.on('activate', () => {
   if (win === null) {
     createWindow()
   }
+
 })
