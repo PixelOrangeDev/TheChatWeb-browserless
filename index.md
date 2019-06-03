@@ -1,9 +1,9 @@
-## TheChatWeb: A new kid on the block of chat apps.
+# TheChatWeb: A new kid on the block of chat apps.
 
-# TheChatWeb-browserless
+## TheChatWeb-browserless
 TheChatWeb is my my prototype chat app. This is the downloadable client.
 
-# TheChatWeb Browserless vs Web
+### TheChatWeb Browserless vs Web
 |                     |  Browserless  |      Web      |
 |        :---:        |     :---:     |     :---:     |
 | Maximum Name Length |       20      |       15      |
