@@ -51,4 +51,3 @@
 > Download Installer: [Releases Page](https://github.com/PixelOrangeDev/TheChatWeb-browserless/releases)
 
 > Check out the [Web Edition](https://thechatweb.zapto.org)
-<iframe href="http://thechatweb.zapto.org">Something went wrong!</iframe>
